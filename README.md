@@ -1,6 +1,6 @@
 # Fraîche Flow Homelab
 
-Dokumentation der im Lernfeld 10b aufgebauten Laborumgebung im Rahmen meiner Umschulung zum Fachinformatiker für Systemintegration.
+Dokumentation einer Laborumgebung im Rahmen meiner Umschulung zum Fachinformatiker für Systemintegration.
 
 ## Inhalte
 
@@ -28,4 +28,5 @@ Dokumentation der im Lernfeld 10b aufgebauten Laborumgebung im Rahmen meiner Ums
 ## Hinweis
 
 Die Umgebung wurde zu Lern- und Testzwecken aufgebaut. Kennwörter, private Schlüssel und andere Zugangsdaten sind nicht enthalten.
+
 
